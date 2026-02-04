@@ -1,30 +1,18 @@
 # Image generation
 
-Dit is een voorbeeld van een prompt library. Middels hashtags maak je kopjes aan.
-Voordeel van een .MD file is dat deze eenvoudig te genereren of in te lezen is door tooling.
+This is an example of a prompt library. You can create headings using hashtags.
+The advantage of an .MD file is that it is easy to generate or read using tooling.
 
-Onderstaand een voorbeeld van catagorisering:
+Below is an example of a way to categorize:
 
-## Fotografie
+## Corporate identities
 
-### Portret fotogratie
-
-#### Prompt
-`......................`
-
-### Landschappen
+### Corporate identitie of CompanyX
 
 #### Prompt
 `......................`
 
-## Huisstijlen
-
-### Huisstijl Innerglow.games
-
-#### Prompt
-`......................`
-
-### Huisstijl nabootsen
+### Imitating a corporate identity style
 
 #### Prompt
 `......................`
@@ -38,11 +26,23 @@ Onderstaand een voorbeeld van catagorisering:
 #### Prompt
 `A simple repeatable grid that I can use as the background for my space top-down shooter game. It should be simple, and mostly gray tones with blue accents. It should show a grid and be repeatable`
 
-### Karakter creatie
+### Character creation
 
+#### Prompt
 
+## Photography
 
-## Kunststromingen 
+### Portret photography
+
+#### Prompt
+`......................`
+
+### Landscapes
+
+#### Prompt
+`......................`
+
+## Art movements 
 
 ### Barok
 
@@ -59,7 +59,7 @@ Onderstaand een voorbeeld van catagorisering:
 ### Surrealisme
 
 #### Prompt
-`Een filmische boekomslag voor Homerus' ‘De Odyssee’. In het midden een oude Griekse houten trireem met bemanning die vecht tegen gigantische, woeste golven in een diepblauwe zee. Op de achtergrond, tussen onweerswolken, kijkt het kolossale, doorschijnende gezicht van Poseidon woedend toe. Gedetailleerd digitaal surrealistisch, dramatische belichting, tinten marineblauw, goud en wit schuim. Hoge resolutie, 4k.`
+`A cinematic book cover for Homer's “The Odyssey.” In the center, an ancient Greek wooden trireme with crew fighting against giant, raging waves in a deep blue sea. In the background, between storm clouds, the colossal, translucent face of Poseidon watches furiously. Detailed digital surrealism, dramatic lighting, shades of navy blue, gold, and white foam. High resolution, 4k.`
 
 ### PopArt
 
