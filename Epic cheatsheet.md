@@ -35,3 +35,12 @@ Either describe the visual effect of an emotion in extreme detail, or just name 
 ## Prompting for audio
 Use English as prompting language
 Mention musical style(s)
+
+## Prompt to generate a corporate identity
+Create a standardized prompt for Midjourney AI for [BRAND NAME] that reflects its brand identity.​
+Basic Styling: The image should feature [STYLE DETAILS, e.g., minimalistic, luxurious, futuristic, organic]. Ensure the design aligns with the brand’s visual style.​
+Mood: Evoke a sense of [MOOD DETAILS, e.g., trust, excitement, sophistication, playfulness]. The mood should resonate with the brand’s values and target audience.​
+Realism Level: The image should have a [REALISM LEVEL, e.g., hyper-realistic, illustrative, abstract, 3D-rendered] appearance, as this complements the brand’s overall aesthetic.​
+Color Scheme: Use a color palette inspired by the logo provided. Base the design on the [BRAND COLORS: primary, secondary, accent] while maintaining visual harmony.​
+Size: The output should be [IMAGE RATIO, e.g., 1:1 for square, 16:9 for wide, 2:3 for mobile] to meet brand content requirements.​
+Ensure that the final image conveys a consistent and professional representation of the brand’s identity. Put it in a format that will be understood by Midjourney AI.
