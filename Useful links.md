@@ -1,6 +1,9 @@
 ### Power Automate automation
 - [Power Automate website](https://www.powerautomate.com)
 
+### General useful AI tools product
+- [Envato](https://www.envato.com)
+
 ### Local image generation
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
 
